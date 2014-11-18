@@ -1,1 +1,0 @@
-This is a simple recipe app built in Rails 4 
